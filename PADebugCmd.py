@@ -1,5 +1,6 @@
 #
-#Log into PAN Firewall via SSH and restart DNS Proxy which is causing mgmt cpu spike on PAN OS 9.0.3
+# Log into PAN Firewall via SSH and restart DNS Proxy which is causing mgmt cpu spike on PAN OS 9.0.3
+# Requires Python 2.x
 #
 import paramiko
 import time
